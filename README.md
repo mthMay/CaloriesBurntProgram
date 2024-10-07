@@ -1,6 +1,6 @@
 # CaloriesBurntProgram
 ### Description
-The Calories Burnt Program is a Python-based fitness app designed to track calories burned during various exercises. It calculates energy expenditure based on the user's weight, type of exercise, and duration. The user can input their weight in pounds or kilograms, which the program will convert if necessary. The app also provides guidance on how to warm down after completing an activity and stores workout details in a history file.
+The Calories Burnt Program is a console-based fitness app designed to track calories burned during various exercises. It calculates energy expenditure based on the user's weight, type of exercise, and duration. The user can input their weight in pounds or kilograms, which the program will convert if necessary. The app also provides guidance on how to warm down after completing an activity and stores workout details in a history file.
 
 ### Features
 • **Weight Conversion**: Allows the user to input their weight in either pounds or kilograms, automatically converting pounds to kilograms.<br>
@@ -12,11 +12,11 @@ The Calories Burnt Program is a Python-based fitness app designed to track calor
 • **User-Friendly Interface**: Includes input validation and guides the user through a clear and simple workout tracking process.<br>
 
 ### How to Run
-1. Clone the repository:
-   ```https://github.com/mthMay/CaloriesBurntProgram.git```
-2. Navigate to the project directory:
+1. Clone the repository:<br>
+   ```git clone https://github.com/mthMay/CaloriesBurntProgram.git```
+2. Navigate to the project directory:<br>
    ```cd CaloriesBurntProgram```
-3. Run the application:
+3. Run the application:<br>
    ```python3 main.py```
    
 **NOTE: Ensure Python 3 is installed on your system before running the application.**
